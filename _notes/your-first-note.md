@@ -1,11 +1,14 @@
 ---
-title: Your first seed
+title: Your first note
 ---
 
 ### Welcome!
 
 You are standing at the main entrance of the digital garden.
+
 Which direction do you want to go first?
+
+
 [[Art]] gardens or [[Science]] gardens
 
 
